@@ -1,0 +1,5 @@
+.venv/
+detectron2/
+__pycache__/
+.vscode/
+models/
