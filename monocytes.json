@@ -1,0 +1,973 @@
+{
+  "name": "monocytes",
+  "type": "Multiple points",
+  "points": [
+    {
+      "name": "Point 1",
+      "point": [
+        2.4261,
+        21.0452,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 2",
+      "point": [
+        2.4713,
+        21.0544,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 3",
+      "point": [
+        2.6757,
+        21.0129,
+        0.25
+      ],
+      "probability": 0.69
+    },
+    {
+      "name": "Point 4",
+      "point": [
+        2.6737,
+        21.0056,
+        0.25
+      ],
+      "probability": 0.6
+    },
+    {
+      "name": "Point 5",
+      "point": [
+        2.955,
+        20.93,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 6",
+      "point": [
+        2.8772,
+        21.0546,
+        0.25
+      ],
+      "probability": 0.59
+    },
+    {
+      "name": "Point 7",
+      "point": [
+        2.8457,
+        21.0147,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 8",
+      "point": [
+        2.8407,
+        21.0323,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 9",
+      "point": [
+        2.8626,
+        21.0238,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 10",
+      "point": [
+        3.1781,
+        21.0274,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 11",
+      "point": [
+        3.1175,
+        21.0536,
+        0.25
+      ],
+      "probability": 0.53
+    },
+    {
+      "name": "Point 12",
+      "point": [
+        3.212,
+        21.0529,
+        0.25
+      ],
+      "probability": 0.5
+    },
+    {
+      "name": "Point 13",
+      "point": [
+        3.2577,
+        21.0394,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 14",
+      "point": [
+        3.2889,
+        21.0296,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 15",
+      "point": [
+        2.4101,
+        21.1597,
+        0.25
+      ],
+      "probability": 0.7
+    },
+    {
+      "name": "Point 16",
+      "point": [
+        2.3712,
+        21.1499,
+        0.25
+      ],
+      "probability": 0.67
+    },
+    {
+      "name": "Point 17",
+      "point": [
+        2.3567,
+        21.2154,
+        0.25
+      ],
+      "probability": 0.67
+    },
+    {
+      "name": "Point 18",
+      "point": [
+        2.4335,
+        21.2329,
+        0.25
+      ],
+      "probability": 0.6
+    },
+    {
+      "name": "Point 19",
+      "point": [
+        2.4593,
+        21.2288,
+        0.25
+      ],
+      "probability": 0.59
+    },
+    {
+      "name": "Point 20",
+      "point": [
+        2.3775,
+        21.1806,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 21",
+      "point": [
+        2.4058,
+        21.0952,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 22",
+      "point": [
+        2.4318,
+        21.1725,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 23",
+      "point": [
+        2.3467,
+        21.2081,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 24",
+      "point": [
+        2.4356,
+        21.2974,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 25",
+      "point": [
+        2.4601,
+        21.0954,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 26",
+      "point": [
+        2.3213,
+        21.1718,
+        0.25
+      ],
+      "probability": 0.53
+    },
+    {
+      "name": "Point 27",
+      "point": [
+        2.3516,
+        21.177,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 28",
+      "point": [
+        2.3824,
+        21.1566,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 29",
+      "point": [
+        2.4675,
+        21.0789,
+        0.25
+      ],
+      "probability": 0.5
+    },
+    {
+      "name": "Point 30",
+      "point": [
+        2.9677,
+        21.0722,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 31",
+      "point": [
+        2.7375,
+        21.1318,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 32",
+      "point": [
+        2.7877,
+        21.3067,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 33",
+      "point": [
+        3.183,
+        21.1594,
+        0.25
+      ],
+      "probability": 0.69
+    },
+    {
+      "name": "Point 34",
+      "point": [
+        3.2138,
+        21.2019,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 35",
+      "point": [
+        3.2147,
+        21.1529,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 36",
+      "point": [
+        3.2112,
+        21.1526,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 37",
+      "point": [
+        3.0754,
+        21.2492,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 38",
+      "point": [
+        3.0116,
+        21.2546,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 39",
+      "point": [
+        3.0764,
+        21.1606,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 40",
+      "point": [
+        3.203,
+        21.1381,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 41",
+      "point": [
+        3.3671,
+        21.1389,
+        0.25
+      ],
+      "probability": 0.63
+    },
+    {
+      "name": "Point 42",
+      "point": [
+        3.329,
+        21.198,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 43",
+      "point": [
+        3.2813,
+        21.2129,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 44",
+      "point": [
+        3.3698,
+        21.0995,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 45",
+      "point": [
+        3.3704,
+        21.1162,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 46",
+      "point": [
+        3.2868,
+        21.2183,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 47",
+      "point": [
+        3.3682,
+        21.1579,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 48",
+      "point": [
+        3.2927,
+        21.1904,
+        0.25
+      ],
+      "probability": 0.53
+    },
+    {
+      "name": "Point 49",
+      "point": [
+        3.2828,
+        21.2233,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 50",
+      "point": [
+        3.2838,
+        21.2273,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 51",
+      "point": [
+        3.3178,
+        21.1304,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 52",
+      "point": [
+        3.2971,
+        21.2097,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 53",
+      "point": [
+        2.4701,
+        21.3243,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 54",
+      "point": [
+        2.4697,
+        21.3265,
+        0.25
+      ],
+      "probability": 0.6
+    },
+    {
+      "name": "Point 55",
+      "point": [
+        2.4665,
+        21.3341,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 56",
+      "point": [
+        2.4681,
+        21.3333,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 57",
+      "point": [
+        2.5884,
+        21.3542,
+        0.25
+      ],
+      "probability": 0.72
+    },
+    {
+      "name": "Point 58",
+      "point": [
+        2.4874,
+        21.336,
+        0.25
+      ],
+      "probability": 0.7
+    },
+    {
+      "name": "Point 59",
+      "point": [
+        2.5754,
+        21.3204,
+        0.25
+      ],
+      "probability": 0.63
+    },
+    {
+      "name": "Point 60",
+      "point": [
+        2.5761,
+        21.3188,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 61",
+      "point": [
+        2.6324,
+        21.3568,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 62",
+      "point": [
+        2.6276,
+        21.3616,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 63",
+      "point": [
+        2.5859,
+        21.3443,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 64",
+      "point": [
+        2.5998,
+        21.3362,
+        0.25
+      ],
+      "probability": 0.6
+    },
+    {
+      "name": "Point 65",
+      "point": [
+        2.6573,
+        21.3601,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 66",
+      "point": [
+        2.6104,
+        21.3621,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 67",
+      "point": [
+        2.7213,
+        21.3397,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 68",
+      "point": [
+        2.5129,
+        21.3399,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 69",
+      "point": [
+        2.5884,
+        21.3175,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 70",
+      "point": [
+        2.6007,
+        21.3449,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 71",
+      "point": [
+        2.5885,
+        21.3575,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 72",
+      "point": [
+        2.5968,
+        21.3527,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 73",
+      "point": [
+        2.6411,
+        21.3532,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 74",
+      "point": [
+        2.6451,
+        21.3537,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 75",
+      "point": [
+        2.6463,
+        21.3553,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 76",
+      "point": [
+        2.6003,
+        21.3228,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 77",
+      "point": [
+        2.8013,
+        21.3266,
+        0.25
+      ],
+      "probability": 0.72
+    },
+    {
+      "name": "Point 78",
+      "point": [
+        2.8336,
+        21.321,
+        0.25
+      ],
+      "probability": 0.69
+    },
+    {
+      "name": "Point 79",
+      "point": [
+        2.7408,
+        21.3225,
+        0.25
+      ],
+      "probability": 0.65
+    },
+    {
+      "name": "Point 80",
+      "point": [
+        2.7862,
+        21.327,
+        0.25
+      ],
+      "probability": 0.63
+    },
+    {
+      "name": "Point 81",
+      "point": [
+        2.8131,
+        21.3286,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 82",
+      "point": [
+        2.8002,
+        21.3279,
+        0.25
+      ],
+      "probability": 0.6
+    },
+    {
+      "name": "Point 83",
+      "point": [
+        2.8435,
+        21.3185,
+        0.25
+      ],
+      "probability": 0.59
+    },
+    {
+      "name": "Point 84",
+      "point": [
+        2.8367,
+        21.3145,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 85",
+      "point": [
+        2.8102,
+        21.3235,
+        0.25
+      ],
+      "probability": 0.57
+    },
+    {
+      "name": "Point 86",
+      "point": [
+        2.8146,
+        21.326,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 87",
+      "point": [
+        2.7292,
+        21.3351,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 88",
+      "point": [
+        2.735,
+        21.3318,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 89",
+      "point": [
+        2.8442,
+        21.3244,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 90",
+      "point": [
+        2.833,
+        21.3188,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 91",
+      "point": [
+        2.787,
+        21.3165,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 92",
+      "point": [
+        4.6492,
+        21.4701,
+        0.25
+      ],
+      "probability": 0.62
+    },
+    {
+      "name": "Point 93",
+      "point": [
+        4.6544,
+        21.4729,
+        0.25
+      ],
+      "probability": 0.58
+    },
+    {
+      "name": "Point 94",
+      "point": [
+        4.667,
+        21.4808,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 95",
+      "point": [
+        4.6648,
+        21.4784,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 96",
+      "point": [
+        4.6963,
+        21.555,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 97",
+      "point": [
+        4.9221,
+        21.493,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 98",
+      "point": [
+        4.7567,
+        21.5414,
+        0.25
+      ],
+      "probability": 0.51
+    },
+    {
+      "name": "Point 99",
+      "point": [
+        4.8491,
+        21.5191,
+        0.25
+      ],
+      "probability": 0.5
+    },
+    {
+      "name": "Point 100",
+      "point": [
+        5.0311,
+        21.5479,
+        0.25
+      ],
+      "probability": 0.61
+    },
+    {
+      "name": "Point 101",
+      "point": [
+        5.0358,
+        21.5471,
+        0.25
+      ],
+      "probability": 0.52
+    },
+    {
+      "name": "Point 102",
+      "point": [
+        4.9704,
+        21.4602,
+        0.25
+      ],
+      "probability": 0.5
+    },
+    {
+      "name": "Point 103",
+      "point": [
+        5.0462,
+        21.6418,
+        0.25
+      ],
+      "probability": 0.56
+    },
+    {
+      "name": "Point 104",
+      "point": [
+        4.9629,
+        21.6901,
+        0.25
+      ],
+      "probability": 0.55
+    },
+    {
+      "name": "Point 105",
+      "point": [
+        5.0069,
+        21.6967,
+        0.25
+      ],
+      "probability": 0.54
+    },
+    {
+      "name": "Point 106",
+      "point": [
+        5.07,
+        21.6254,
+        0.25
+      ],
+      "probability": 0.53
+    },
+    {
+      "name": "Point 107",
+      "point": [
+        4.9602,
+        21.5756,
+        0.25
+      ],
+      "probability": 0.51
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0
+  }
+}

@@ -13,7 +13,7 @@ def main():
     output_dir = os.path.join("models", "output_kidney_patches")
     model_weights = os.path.join(output_dir, "model_final.pth")
 
-    with open("test.pkl", "rb") as f:
+    with open("../monkey-model/test.pkl", "rb") as f:
         test_dicts = pickle.load(f)
 
     def get_kidney_dicts():
@@ -34,6 +34,14 @@ def main():
     cfg.MODEL.DEVICE = "cuda"
 
     predictor = DefaultPredictor(cfg)
+    im = cv2.imread("A_P000002_inflammatory-cells_4.png")
+    output = predictor(im)
+    v = Visualizer(im[:, :, ::-1], metadata=kidney_metadata, scale=0.8)
+    out = v.draw_instance_predictions(output["instances"].to("cpu"))
+    cv2.imshow("Prediction", out.get_image()[:, :, ::-1])
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+    exit()
 
     for d in random.sample(test_dicts, 10):
         print(d["file_name"])
